@@ -30,7 +30,7 @@ ELECTE is an **AI-powered data analytics platform** helping European SMEs transf
 
 ### 💡 Our Impact
 ```
-15,000+  Newsletter Subscribers
+40,000+  Newsletter Subscribers
 278%     Platform Growth
 80%      International Revenue
 100%     Focus on Innovation
