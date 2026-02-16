@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-electe.net-blue?style=for-the-badge)](https://electe.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/electesrl)
-[![Newsletter](https://img.shields.io/badge/Newsletter-15K%2B%20Subscribers-FF6B6B?style=for-the-badge)](https://electe.net/newsletter)
+[![Newsletter](https://img.shields.io/badge/Newsletter-40K%2B%20Subscribers-FF6B6B?style=for-the-badge)](https://electe.net/newsletter)
 
 ---
 
