@@ -84,7 +84,7 @@ Our platform leverages cutting-edge technologies:
 ## 📚 Resources
 
 - 📖 [Blog & Insights](https://medium.com/@fabiolauria) - Latest articles on AI and data analytics
-- 📧 [Newsletter](https://electe.net/newsletter) - Weekly data science insights for 15,000+ subscribers
+- 📧 [Newsletter](https://electe.net/newsletter) - Weekly data science insights for 40,000+ subscribers
 - 💼 [Careers](https://electe.net/careers) - Join our growing team
 - 📞 [Contact](https://electe.net/contact) - Get in touch
 
