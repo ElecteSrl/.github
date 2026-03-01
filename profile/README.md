@@ -110,6 +110,6 @@ Have a data challenge? Let's solve it together.
 ![GDPR](https://img.shields.io/badge/GDPR-Compliant-1976D2?style=flat)
 ![SME](https://img.shields.io/badge/Focus-European%20SMEs-FF6B6B?style=flat)
 
-**© 2023-2025 ELECTE S.R.L.**
+**© 2023-2026 ELECTE S.R.L.**
 
 </div>
