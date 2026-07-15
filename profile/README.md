@@ -30,7 +30,7 @@ ELECTE is an **AI-powered data analytics platform** helping European SMEs transf
 
 ### 💡 Our Impact
 ```
-40,000+  Newsletter Subscribers
+100,000+  Newsletter Subscribers
 278%     Platform Growth
 80%      International Revenue
 100%     Focus on Innovation
@@ -94,7 +94,7 @@ Have a data challenge? Let's solve it together.
 
 - 🌐 **Website:** [electe.net](https://electe.net)
 - 💼 **LinkedIn:** [ElecteSrl](https://www.linkedin.com/company/electesrl)
-- 📧 **Email:** info@electe.net
+- 📧 **Email:** hello@electe.net
 - 📍 **Location:** Milan, Italy
 
 ---
