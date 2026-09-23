@@ -1,6 +1,12 @@
 <div align="center">
 
-# 🚀 ELECTE S.R.L.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://assets.electe.net/brand/v1.0/01-wordmark/svg/electe-wordmark-dark-outlined.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://assets.electe.net/brand/v1.0/01-wordmark/svg/electe-wordmark-light-outlined.svg">
+    <img src="https://assets.electe.net/brand/v1.0/01-wordmark/svg/electe-wordmark-light-outlined.svg" alt="ELECTE" width="400">
+  </picture>
+</p>
 
 ### AI-Powered Data Analytics Platform for European SMEs
 
